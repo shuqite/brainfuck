@@ -1,7 +1,14 @@
-BRAINFUCK on RUST
-=================
+BRAINFUCK on RUST and PYTHON
+============================
 
-READY:
+RUST READY:
+- [ ] Terminal gui
+- [ ] I / O ( , / . )
+- [ ] + / -
+- [ ] Cycles ( '[]' )
+- [ ] > / <
+
+PYTHON READY:
 - [ ] Terminal gui
 - [ ] I / O ( , / . )
 - [ ] + / -
@@ -13,8 +20,14 @@ INSTALL:
 git clone https://github.com/shuqite/brainfuck
 ```
 
-TO RUN:
+TO RUN RUST:
 ```sh
-cd brainfuck/brainfuck
+cd brainfuck/brainfuck-rust
 cargo run
 ```
+
+TO RUN PYTHON:
+'''sh
+cd brainfuck/brainfuck-python
+python brainfuck.py
+'''
