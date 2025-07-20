@@ -27,7 +27,7 @@ cargo run
 ```
 
 TO RUN PYTHON:
-'''sh
+```sh
 cd brainfuck/brainfuck-python
 python brainfuck.py
-'''
+```
