@@ -15,6 +15,6 @@ git clone https://github.com/shuqite/brainfuck
 
 TO RUN:
 ```sh
-cd brainfuck
+cd brainfuck/brainfuck
 cargo run
 ```
