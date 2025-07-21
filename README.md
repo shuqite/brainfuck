@@ -9,7 +9,7 @@ RUST READY:
 - [ ] > / <
 
 PYTHON READY:
-- [ ] Terminal gui
+- [x] Terminal gui
 - [ ] I / O ( , / . )
 - [ ] + / -
 - [ ] Cycles ( '[]' )
