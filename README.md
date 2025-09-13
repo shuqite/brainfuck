@@ -1,15 +1,15 @@
 ## BRAINFUCK on RUST and PYTHON
 
 RUST READY:
-- [ ] Terminal gui
+- [ ] CLI
 - [ ] I / O ( , / . )
 - [ ] + / -
 - [ ] Cycles ( '[]' )
 - [ ] > / <
 
 PYTHON READY:
-- [x] Terminal gui
-- [ ] I / O ( , / . )
+- [x] CLI
+- [ ] - [ ] I / O ( , / . )
 - [ ] + / -
 - [ ] Cycles ( '[]' )
 - [ ] > / <
